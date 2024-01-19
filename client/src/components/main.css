@@ -1,0 +1,47 @@
+.navBar {
+  background-color: #9bc2a2;
+  padding-top: 2%;
+}
+
+.navTabs {
+  margin-left: 30%;
+}
+
+.link {
+  padding-left: 3%;
+}
+
+.top {
+  background-color: #9bc2a2;
+}
+
+.link {
+  align-items: center;
+  text-decoration: none;
+  color: white;
+  font-size: 22px;
+  margin-right: 20px;
+}
+
+.link2 {
+  text-decoration: none;
+  color: white;
+  font-size: 14px;
+  float: left;
+  margin-left: 10px;
+}
+
+.desc {
+  color: white;
+  padding-top: 1%;
+}
+
+.tabTabs {
+  padding-bottom: -10%;
+}
+
+.shopLink {
+  margin-left: 30%;
+  padding-top: 1%;
+  padding-bottom: 1%;
+}
